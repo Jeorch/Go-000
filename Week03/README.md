@@ -1,5 +1,5 @@
 ## XYZ0901 优秀的笔记
-[原文链接](https://github.com/XYZ0901/Go-000/tree/main/Week03)
+抄的XYZ0901的作业[原文链接](https://github.com/XYZ0901/Go-000/tree/main/Week03)
 ## 作业
 #### 问题：
 基于 errgroup 实现一个 http server 的启动和关闭 ，以及 linux signal 信号的注册和处理，要保证能够 一个退出，全部注销退出。
